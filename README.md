@@ -16,4 +16,7 @@ The project workflow is as follows:
 The MNIST Dataset is used to train the neural network. The MNIST database consists of handwritten digits having a training set of 60,000 examples, and a test set of 10,000 examples. For more, see https://www.kaggle.com/datasets/hojjatk/mnist-dataset
 
 # Results 
+<img width="551" alt="res1" src="https://github.com/ekahorsu/Training-Neural-Network-from-Scratch-for-Multi-class-classification-in-TensorFlow/assets/70072775/cf8c8472-caa9-4f25-ac40-e9e429c58e7e">
+
+As shown in the plots above, the neural network achieves close to 90% test accuracy for the 10,000 test examples of hand-written data.  
 
