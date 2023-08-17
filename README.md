@@ -18,5 +18,5 @@ The MNIST Dataset is used to train the neural network. The MNIST database consis
 # Results 
 <img width="551" alt="res1" src="https://github.com/ekahorsu/Training-Neural-Network-from-Scratch-for-Multi-class-classification-in-TensorFlow/assets/70072775/cf8c8472-caa9-4f25-ac40-e9e429c58e7e">
 
-As shown in the plots above, the neural network achieves close to 90% test accuracy for the 10,000 test examples of hand-written digits.  
+As shown in the plot above, the neural network achieves close to 90% test accuracy for the 10,000 test examples of hand-written digits.  
 
