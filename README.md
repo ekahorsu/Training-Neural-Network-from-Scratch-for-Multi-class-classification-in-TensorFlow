@@ -1,6 +1,4 @@
 # Description
-![nn_pic](https://github.com/ekahorsu/Training-Neural-Network-from-Scratch-for-Multi-class-classification-in-TensorFlow/assets/70072775/6b7fb508-381c-40c3-b7fa-5ef4ef5b454c)
-
 A Neural Network model is presented in TensorFlow using its core functionality without a high-level API like Keras. Gradient descent algorithm is implemented with TensorFlow's automatic differentiation to update layer parameters. Finally, this implementation is used to classify hand-written digits. 
 
 The project workflow is as follows:
