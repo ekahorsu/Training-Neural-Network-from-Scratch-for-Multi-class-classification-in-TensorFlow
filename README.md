@@ -5,7 +5,7 @@ A Neural Network model is presented in TensorFlow using its core functionality w
 
 The project workflow is as follows:
 1. Creating the Neural Network class. Setting up initial parameter values.
-2. Creating a forward pass function.
+2. Creating a forward propagation function.
 3. Computing the cross entropy loss with logits. Updating parameters for all the layers.
 4. Creating a predict function with the help of the forward pass.
 5. Creating the main training mechanism. Implementing gradient descent with automatic differentiation.
